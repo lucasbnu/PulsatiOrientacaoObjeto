@@ -11,9 +11,6 @@ package com.mycompany.exemplocontrutor;
 public class ExemploContrutor {
 
     public static void main(String[] args) {
-        //Pessoa objetoPessoa = new Pessoa("lucas",23);
-        Pessoa objPessoa2 = new Pessoa();
-        //objetoPessoa.setIdade(18);
-        //objetoPessoa.setNome("Joao");
+        System.out.println("Hello World!");
     }
 }
